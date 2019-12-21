@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29013" started-at="2019-12-21T06:00:42Z" finished-at="2019-12-21T06:01:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29013" started-at="2019-12-21T06:00:42Z" finished-at="2019-12-21T06:01:11Z">
+      <class name="testCases.TestCase_AmazonVsFlipkart">
+        <test-method status="PASS" signature="PriceAnalysis()[pri:0, instance:testCases.TestCase_AmazonVsFlipkart@58651fd0]" name="PriceAnalysis" duration-ms="28991" started-at="2019-12-21T06:00:42Z" finished-at="2019-12-21T06:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PriceAnalysis -->
+      </class> <!-- testCases.TestCase_AmazonVsFlipkart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
